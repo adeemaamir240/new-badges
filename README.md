@@ -1,3 +1,3 @@
 # new-badges
 new-badges
-Welcome To Test Tailwind
+Welcome To new-badges
